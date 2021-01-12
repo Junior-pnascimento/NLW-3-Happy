@@ -35,10 +35,10 @@ const OrphanagesMap = () => {
 
         <footer>
           <strong>
-            Fortaleza
+            São Paulo
           </strong>
           <span>
-            Ceará
+            SP
           </span>
         </footer>
       </aside>
